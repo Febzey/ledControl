@@ -1,3 +1,5 @@
+simple GPIO web app LED control using a websocket
+
 To use this you will need a Raspberry Pi, Female jumper wires, a button, an LED light.
 
 If you so happen to have these things and you set it up correctly.
